@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  bos2.cpp
+c:\users\dexp\desktop\bos\bos2\bos2\bos2.cpp(12): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\dexp\desktop\bos\bos2\bos2\bos2.cpp(12): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 3
+  bos2.vcxproj -> C:\Users\DEXP\Desktop\bos\bos2\Debug\bos2.exe
